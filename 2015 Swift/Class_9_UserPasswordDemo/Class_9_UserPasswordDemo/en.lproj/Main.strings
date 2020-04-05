@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "複製目錄"; ObjectID = "2of-Fw-VaF"; */
+"2of-Fw-VaF.normalTitle" = "複製目錄";
+
+/* Class = "UIButton"; normalTitle = "顯示用戶清單"; ObjectID = "2pc-FA-Bku"; */
+"2pc-FA-Bku.normalTitle" = "顯示用戶清單";
+
+/* Class = "UITextField"; placeholder = "檔名"; ObjectID = "4lc-Mb-Haf"; */
+"4lc-Mb-Haf.placeholder" = "檔名";
+
+/* Class = "UITextField"; placeholder = "檔名或目錄名"; ObjectID = "5Yb-bP-TvT"; */
+"5Yb-bP-TvT.placeholder" = "檔名或目錄名";
+
+/* Class = "UITextField"; placeholder = "目錄名"; ObjectID = "8B8-dw-FyH"; */
+"8B8-dw-FyH.placeholder" = "目錄名";
+
+/* Class = "UITextField"; placeholder = "目錄名"; ObjectID = "BFr-Gd-f2p"; */
+"BFr-Gd-f2p.placeholder" = "目錄名";
+
+/* Class = "UITextField"; placeholder = "用戶名"; ObjectID = "C8w-aw-mYn"; */
+"C8w-aw-mYn.placeholder" = "用戶名";
+
+/* Class = "UILabel"; text = "User:"; ObjectID = "Ite-cY-YiW"; */
+"Ite-cY-YiW.text" = "User:";
+
+/* Class = "UIButton"; normalTitle = "複製檔案"; ObjectID = "Mvr-sc-QY4"; */
+"Mvr-sc-QY4.normalTitle" = "複製檔案";
+
+/* Class = "UIButton"; normalTitle = "移動目錄"; ObjectID = "MxC-Bp-iMf"; */
+"MxC-Bp-iMf.normalTitle" = "移動目錄";
+
+/* Class = "UIButton"; normalTitle = "建立目錄"; ObjectID = "NAx-Ey-oHc"; */
+"NAx-Ey-oHc.normalTitle" = "建立目錄";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "Ngo-qU-zP2"; */
+"Ngo-qU-zP2.text" = "Name:";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "Y6G-hw-5SM"; */
+"Y6G-hw-5SM.text" = "Password:";
+
+/* Class = "UIButton"; normalTitle = "建立帳號"; ObjectID = "Yja-eE-uvl"; */
+"Yja-eE-uvl.normalTitle" = "建立帳號";
+
+/* Class = "UIButton"; normalTitle = "刪除檔案或目錄"; ObjectID = "Z9Z-a2-Ja6"; */
+"Z9Z-a2-Ja6.normalTitle" = "刪除檔案或目錄";
+
+/* Class = "UITextField"; placeholder = "檔名"; ObjectID = "hh8-oj-AIo"; */
+"hh8-oj-AIo.placeholder" = "檔名";
+
+/* Class = "UIButton"; normalTitle = "移動檔案"; ObjectID = "mJ8-6i-DXb"; */
+"mJ8-6i-DXb.normalTitle" = "移動檔案";
+
+/* Class = "UIButton"; normalTitle = "查詢帳密"; ObjectID = "qOS-5O-K1F"; */
+"qOS-5O-K1F.normalTitle" = "查詢帳密";
