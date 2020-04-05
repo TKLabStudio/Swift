@@ -1,0 +1,291 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52F6F7E71C0DE37400C14D42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F6F7E61C0DE37400C14D42 /* AppDelegate.swift */; };
+		52F6F7E91C0DE37400C14D42 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F6F7E81C0DE37400C14D42 /* ViewController.swift */; };
+		52F6F7EC1C0DE37400C14D42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F6F7EA1C0DE37400C14D42 /* Main.storyboard */; };
+		52F6F7EE1C0DE37400C14D42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52F6F7ED1C0DE37400C14D42 /* Assets.xcassets */; };
+		52F6F7F11C0DE37400C14D42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F6F7EF1C0DE37400C14D42 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52F6F7E31C0DE37400C14D42 /* Class_7_AlerController2Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Class_7_AlerController2Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52F6F7E61C0DE37400C14D42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		52F6F7E81C0DE37400C14D42 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		52F6F7EB1C0DE37400C14D42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		52F6F7ED1C0DE37400C14D42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		52F6F7F01C0DE37400C14D42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		52F6F7F21C0DE37400C14D42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52F6F7E01C0DE37400C14D42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52F6F7DA1C0DE37400C14D42 = {
+			isa = PBXGroup;
+			children = (
+				52F6F7E51C0DE37400C14D42 /* Class_7_AlerController2Demo */,
+				52F6F7E41C0DE37400C14D42 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52F6F7E41C0DE37400C14D42 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52F6F7E31C0DE37400C14D42 /* Class_7_AlerController2Demo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52F6F7E51C0DE37400C14D42 /* Class_7_AlerController2Demo */ = {
+			isa = PBXGroup;
+			children = (
+				52F6F7E61C0DE37400C14D42 /* AppDelegate.swift */,
+				52F6F7E81C0DE37400C14D42 /* ViewController.swift */,
+				52F6F7EA1C0DE37400C14D42 /* Main.storyboard */,
+				52F6F7ED1C0DE37400C14D42 /* Assets.xcassets */,
+				52F6F7EF1C0DE37400C14D42 /* LaunchScreen.storyboard */,
+				52F6F7F21C0DE37400C14D42 /* Info.plist */,
+			);
+			path = Class_7_AlerController2Demo;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52F6F7E21C0DE37400C14D42 /* Class_7_AlerController2Demo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52F6F7F51C0DE37400C14D42 /* Build configuration list for PBXNativeTarget "Class_7_AlerController2Demo" */;
+			buildPhases = (
+				52F6F7DF1C0DE37400C14D42 /* Sources */,
+				52F6F7E01C0DE37400C14D42 /* Frameworks */,
+				52F6F7E11C0DE37400C14D42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Class_7_AlerController2Demo;
+			productName = Class_7_AlerController2Demo;
+			productReference = 52F6F7E31C0DE37400C14D42 /* Class_7_AlerController2Demo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52F6F7DB1C0DE37400C14D42 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = TK;
+				TargetAttributes = {
+					52F6F7E21C0DE37400C14D42 = {
+						CreatedOnToolsVersion = 7.1.1;
+					};
+				};
+			};
+			buildConfigurationList = 52F6F7DE1C0DE37400C14D42 /* Build configuration list for PBXProject "Class_7_AlerController2Demo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 52F6F7DA1C0DE37400C14D42;
+			productRefGroup = 52F6F7E41C0DE37400C14D42 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52F6F7E21C0DE37400C14D42 /* Class_7_AlerController2Demo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52F6F7E11C0DE37400C14D42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52F6F7F11C0DE37400C14D42 /* LaunchScreen.storyboard in Resources */,
+				52F6F7EE1C0DE37400C14D42 /* Assets.xcassets in Resources */,
+				52F6F7EC1C0DE37400C14D42 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52F6F7DF1C0DE37400C14D42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52F6F7E91C0DE37400C14D42 /* ViewController.swift in Sources */,
+				52F6F7E71C0DE37400C14D42 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52F6F7EA1C0DE37400C14D42 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52F6F7EB1C0DE37400C14D42 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		52F6F7EF1C0DE37400C14D42 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52F6F7F01C0DE37400C14D42 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52F6F7F31C0DE37400C14D42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		52F6F7F41C0DE37400C14D42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52F6F7F61C0DE37400C14D42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Class_7_AlerController2Demo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TK.Class-7-AlerController2Demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		52F6F7F71C0DE37400C14D42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Class_7_AlerController2Demo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TK.Class-7-AlerController2Demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52F6F7DE1C0DE37400C14D42 /* Build configuration list for PBXProject "Class_7_AlerController2Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52F6F7F31C0DE37400C14D42 /* Debug */,
+				52F6F7F41C0DE37400C14D42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52F6F7F51C0DE37400C14D42 /* Build configuration list for PBXNativeTarget "Class_7_AlerController2Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52F6F7F61C0DE37400C14D42 /* Debug */,
+				52F6F7F71C0DE37400C14D42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52F6F7DB1C0DE37400C14D42 /* Project object */;
+}

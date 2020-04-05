@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Class_7_AlertController7Demo/ViewController.swift"
+            timestampString = "470678682.286765"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Num2View.swift"
+            timestampString = "471455014.426564"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Num2View"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_7_AlertController7Demo.Num2View.__deallocating_deinit"
+                  moduleName = "Class_7_AlertController7Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tk/Desktop/Swift/Class_7_AlertController3Demo/Num2View.swift"
+                  timestampString = "471455014.514573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_7_AlertController7Demo.Num2View.init (Class_7_AlertController7Demo.Num2View.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Class_7_AlertController7Demo.Num2View"
+                  moduleName = "Class_7_AlertController7Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tk/Desktop/Swift/Class_7_AlertController3Demo/Num2View.swift"
+                  timestampString = "471455014.588456"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_7_AlertController7Demo.Num2View.init (Class_7_AlertController7Demo.Num2View.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Class_7_AlertController7Demo.Num2View&gt;"
+                  moduleName = "Class_7_AlertController7Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tk/Desktop/Swift/Class_7_AlertController3Demo/Num2View.swift"
+                  timestampString = "471455014.588851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
